@@ -1,0 +1,31 @@
+Data and Python files related to the HDDM toolbox.
+
+
+The HDDM is a python toolbox for hierarchical Bayesian parameter estimation of the Drift Diffusion Model.
+Wiecki TV, Sofer I and Frank MJ (2013). HDDM: Hierarchical Bayesian estimation of the Drift-Diffusion Model in Python. Front. Neuroinform. 7:14. doi: 10.3389/fninf.2013.00014
+
+For the Py files, we used the following Python (3.4 version) packages:
+hddm version 0.6.1
+kabuki vrsion 0.6.1
+pandas version 0.23.4
+
+
+Raw data files appear in the main document. These also appear in a similar version in ICB/data.
+
+
+Other files are stored in: "ICB/hddm related code and data/DATASET_NAME/informative priors 40K/MODEL_NAME",
+where: 
+
+DATASET_NAME = {"BL", Vertical bisection task; motor1..motor10, pairs of motor task; g27..g34, numerical simulations of recurrent network}
+MODEL_NAME = {"both", biased drift and IC; "drift", biased drift; "IC", biased IC; "none", unbiased drift and IC}
+
+Each path includes 2 py files: 
+
+* One for running the DDM fit (the sh. file calls this file 12 times to run 12 separate MC with 40,000 samples each). 
+The resulting files are submodel0-11.
+
+* The second py file merges all 12 submodels into one model (named "DATASETNAME_MODELNAME_no_tttv"), for which it outputs posteriors statistic (stats_csv_DATASETNAME_MODELNAME_no_tttv.csv) and Gelman-Rubin stat (gelman_rubin_stats.csv).
+In addition, for the exprimetntal datasets and for g=2.7, g=3 and g=3.4, the file also calls for a simulation of responses (choices and reaction time) using the posteriors obtained from the HDDM procedure (ppc files).
+These resulting files are analyzed in MATLAB 
+
+The BL and g=2.7, g=3, g=3.4 datasets also include "A" and "B" documents with the same fitting procedure (used for SEM of deltaDIC).

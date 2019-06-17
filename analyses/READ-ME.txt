@@ -1,0 +1,3 @@
+Matlab files used for analyses.
+Analyses are saved my figure(s) name.
+Other files correspond either to functions used by the figName.m files or to analyses that were not illustrated graphically.
