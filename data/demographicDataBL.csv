@@ -1,0 +1,101 @@
+ID,AgeYears,Sex,Hand,Country,Language,Education,vision,visionExpain,neuroPsychiDisorders,learningDisorder,AntipsychoticDrugs,screen,screenWidth,screenHeight,screenAvailWidth,screenAvailHeight,colorDepth,pixelDepth,innerWidth,innerHeight
+b3266cd0f153658af145cfaf1c,44,Male,Right,United States,English,Secondary,NormalCorrected,,no,no,no,external,1280,1024,1280,980,24,24,1280,860
+c34ae5d75bed1f43ccdee6a805,42,Male,Right,USA,English,Masters,NormalCorrected,,no,no,no,external,1024,768,1024,728,24,24,892,535
+30116a8cd4cd63002b247e09cb,45,Female,Right,usa,english,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,659
+e0cf36dab8181de3d5739e7294,53,Male,Right,USA,English,Secondary,NormalCorrected,,no,no,no,external,1600,900,1600,860,24,24,1600,766
+2000f0fa6c5be443c522357861,28,Male,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,external,1920,1080,1920,1040,24,24,1920,946
+3cb882e3fd03c45aedf3c9114a,71,Male,Right,USA,English,Secondary,NormalCorrected,,no,no,no,external,1536,864,1536,826,24,24,1536,731
+81f8e32aa38fd6d6bfa9d10db3,41,Male,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,667
+0f7fd9514544411556daae03df,29,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,1440,900,1440,860,24,24,1440,775
+686d2b8572a23aa0823dfab981,35,Female,Left,Croatia,Croatian,Undergraduate,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,659
+3a9dfec07c2b0cf67b3d2aaeb9,32,Female,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1280,800,1280,770,24,24,1280,647
+d1e31975b6d7f4e05ceda0ed14,55,Female,Right,usa,english,Undergraduate,NormalCorrected,,no,no,no,laptop,2049,1152,2049,1092,24,24,2049,1046
+f3d226b45a3ca1d9522398c2d5,27,Female,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,1440,900,1440,860,24,24,1440,799
+8a24809d7577e84bab912f31b5,27,Male,Right,USA,ENGLISH,Undergraduate,NormalCorrected,,no,no,no,laptop,1920,1080,1920,1040,24,24,1920,969
+4880169d422bd061624ac2ed95,54,Female,Right,UK,english,Undergraduate,NormalCorrected,,no,no,no,external,1680,1050,1680,1022,24,24,1673,916
+c41a2d53300e31cc5663584e4e,22,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1440,900,1440,860,24,24,1440,775
+b736a1fe47541b2b869b938e77,27,Female,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,external,2560,1440,2560,1414,24,24,1116,870
+c7bf5e5fe51b933bb8dc476d92,51,Male,Right,usa,english,Undergraduate,NormalCorrected,,no,no,no,laptop,1366,768,1366,768,24,24,1366,698
+199355d91d314e66f8383a8b32,55,Male,Right,United States of America,English,Undergraduate,NormalCorrected,,no,no,no,external,1920,1080,1920,1050,24,24,1920,931
+49b3bbb9c1ce59b334314812f6,66,Female,Right,USA,English,Undergraduate,NormalCorrected,keratoconus,no,no,no,external,1280,720,1280,685,24,24,1280,598
+0f93ce7d8f8b7029dc1a0e551f,33,Female,Left,Unitde States,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,627
+877598f3d86701a1cf6ce0bf7c,56,Female,Right,usa,english,Primary,NormalCorrected,,no,no,no,external,1680,1050,1680,1010,24,24,1464,794
+adf3ef85c4a0359d1ce2b66a19,27,Female,Right,usa,english,Undergraduate,NormalCorrected,,no,no,no,laptop,1920,1080,1920,1030,24,24,1920,969
+8bf227cd331e895581d7094d1a,25,Male,Right,Moldova,English,Undergraduate,NormalCorrected,,no,no,no,external,1920,1080,1920,1040,24,24,1920,955
+0f08676145c76acb9e89e8e611,25,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1600,900,1600,860,24,24,1600,775
+d89955e88f140e49f8b7bc9409,40,Female,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,1280,1024,1280,984,24,24,1280,884
+b8a22a27af1f00456ef59dbcf6,27,Male,Right,usa,ENGLISH,Secondary,NormalCorrected,,no,no,no,external,1920,1080,1920,1040,24,24,1253,951
+cfdbee16f3146e1149aa196080,44,Female,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,600
+490cba77d4a0d6496ac2fd1991,44,Male,Right,USA,English,Secondary,NormalCorrected,,no,no,no,laptop,1280,800,1280,760,24,24,1280,627
+3a11923312e11eaf42c278b40e,26,Female,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1366,768,1366,738,24,24,1366,669
+c04eb8feeb001302654dfe9e9b,54,Female,Right,USA,ENGLISH,Masters,NormalCorrected,,no,no,no,laptop,1680,1050,1680,953,24,24,1680,874
+84a33922d549b6afda4b77ff88,28,Male,Right,USA,English,Secondary,NormalCorrected,,no,no,no,external,1920,1080,1920,1080,24,24,1496,811
+a852e867255b1dd76f07c55c54,59,Female,Right,USA,English,Secondary,NormalCorrected,,no,no,no,external,1440,900,1440,860,24,24,1152,639
+625bbed5f3140f1a24b09ac248,28,Male,Right,United States,English,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1366,768,24,24,1366,705
+911afa3e916e93af5bed649af8,24,Male,Right,United States,English,Secondary,NormalCorrected,,no,no,no,external,1440,900,1440,852,24,24,1440,791
+bb71a52d325c85c1c822c1d47a,37,Male,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,external,1920,1080,1920,985,24,24,1033,767
+73645ecb98a22dd8fd310a054b,28,Female,Right,USA,English,Masters,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,643
+487b21abefc718c132a3bfe320,27,Female,Right,united states,english,Primary,NormalCorrected,,no,no,no,laptop,1366,768,1366,738,24,24,1039,622
+17fabf9e3761995749c6a3e236,36,Female,Right,United states,English,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,667
+ad5ea70f58afb1251a78305ba7,47,Female,Right,US,English,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,643
+1be9ed20975f111b2854b5c8e6,37,Female,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1680,1050,1680,1050,24,24,1680,948
+b31b09e9e375967108fb573c2a,39,Male,Right,USA`,English,Undergraduate,NormalCorrected,,no,no,yesPast,laptop,1600,900,1600,860,24,24,1600,775
+0707f015bff85fbe58d16f115a,30,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,1920,1080,1920,1080,24,24,1526,881
+4b9c4bfc5649f891679908c010,31,Male,Right,USA,English,Secondary,NormalCorrected,,no,no,no,external,1920,1080,1920,1040,24,24,1920,979
+c852349215b49ec0340500cbf9,47,Female,Right,United States,English,Undergraduate,NormalCorrected,n/a,no,no,no,external,1280,1024,1280,984,24,24,1280,866
+6298ab85efdc4a1b8ab4372244,22,Female,Right,USA,English,Secondary,NormalCorrected,,no,no,no,external,1280,720,1280,680,24,24,1268,589
+283cf583ac67289f84732f5d65,54,Male,Right,United States,English,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,631
+cf5e5f782db8f4542402372347,67,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,657
+5c826c8c89495d195c5657d668,51,Male,Right,USA,English,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1363,768,24,24,1363,680
+06f2138e76d9ebca37cf1faabc,43,Female,Right,USA,English,Secondary,NormalCorrected,,no,no,no,external,1600,900,1600,860,24,24,1603,770
+8d903b67c440e41ff736639ac6,25,Female,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1440,900,1440,807,24,24,1440,735
+4d0401e8493fa11fd8fcc41d2e,34,Male,Right,United States,English,Masters,NormalCorrected,,no,no,no,external,1280,1024,1280,996,24,24,1280,911
+81a103af6755f931c162355e09,29,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,1440,900,1440,860,24,24,1440,761
+4b12ddf69f30e0cf5177be9cf5,31,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,2560,1440,2560,1330,24,24,1563,1235
+e124c16f450b6012e96b14a170,67,Male,Right,USA,English,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,659
+4453eea0e66a94683313b4acfc,38,Male,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,external,1776,1000,1776,1000,24,24,1776,928
+8ea56a5ad511df5ac6b02b7612,30,Male,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,643
+7268dcfaafd579f29af1124bb4,33,Female,Left,USA,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1440,960,1440,923,24,24,1440,852
+e7494d6169d5351bbfbd6bd8fa,45,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,1280,1024,1280,984,24,24,1280,887
+5d66075727c2e712aca7a7edbc,43,Male,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,external,1920,1080,1920,1040,24,24,1920,916
+25e069b618c2e495ca66802b9a,63,Female,Right,United States,English,Undergraduate,NormalCorrected,slight cataracts,no,no,no,external,1520,855,1398,855,24,24,1398,717
+b600a21253b1d230519df856af,38,Female,Both,United States,English,Masters,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,643
+0aaee2038f2224950149386512,46,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,1920,1080,1920,1040,24,24,1435,824
+4516ea38275fd867b2587fc2dc,29,Male,Right,usa,english,Secondary,NormalCorrected,,no,no,no,external,1280,720,1280,674,24,24,1280,604
+dced414aa19024f4d4426b56af,36,Female,Right,USA,English,Secondary,NormalCorrected,none,no,no,no,laptop,1366,768,1366,728,24,24,1366,643
+9696202d129268c11357c13c14,30,Male,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,external,1920,1080,1920,1080,24,24,935,967
+51a280c6466bbfa4fe581e2295,31,Female,Right,United States ,English ,Secondary,NormalCorrected,,no,no,no,laptop,1280,1024,1280,984,24,24,1280,899
+66c74109875db6e605517b1565,27,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,1280,1024,1280,984,24,24,1280,923
+5f89443597ebda8716e5c2e1cd,26,Female,Right,USA,English,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,643
+34afa9ad35cc48ef2eba0e07a5,27,Female,Right,USA,English,Masters,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,643
+5821d0e3f59aa65fb323ca212f,43,Male,Right,USA,English,Secondary,NormalCorrected,,no,no,no,external,864,1536,864,1536,24,24,851,743
+9100ce65cd291533c1aefcff62,46,Female,Right,USA,English,Secondary,NormalCorrected,,no,no,no,external,2040,1152,2040,1092,24,24,1499,878
+3ba4c720523c08e33f5034f2f4,29,Male,Right,United States,english,Undergraduate,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,643
+0e1060088c800acbc44b28a04c,42,Female,Left,United States,Enlish,Secondary,NormalCorrected,,no,no,no,external,1680,1050,1680,1010,24,24,1680,890
+752f83df32a6e796dc72f4780d,51,Female,Left,United States,English,Undergraduate,NormalCorrected,,no,no,no,external,1366,768,1366,768,24,24,1243,608
+a62eaf5072a69c86b50df9f23b,27,Male,Right,USA,english,Undergraduate,NormalCorrected,,no,no,no,external,1440,900,1440,817,24,24,1328,701
+b9e1841547ffa3ab8c7bee10be,30,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,1536,864,1465,864,24,24,1059,746
+553e95a52fd6844f4f2849a110,39,Female,Right,US,English,Undergraduate,NormalCorrected,,no,no,no,external,1067,600,1067,569,24,24,1067,454
+8a66a75507d2655db2c2d0d616,58,Female,Right,UNITED STATES,ENGLISH,Undergraduate,NormalCorrected,,no,yes,no,laptop,1368,768,1306,768,24,24,1306,707
+103ba1c62caa2733476f5ea57e,38,Female,Right,United States,English,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,635
+6d394b53664392187dbe6a26c0,51,Male,Right,United States,English,Secondary,NormalCorrected,,no,no,no,external,1920,1080,1920,1080,24,24,1280,662
+e8a5aa3a1a905d4a5f53acd72f,49,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,1536,864,1536,837,24,24,1536,742
+db0a414a645d3039689ef4deb2,39,Male,Right,United States,English,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,643
+4e395ecd46137982e054bd236a,39,Male,Right,usa,english,Undergraduate,NormalCorrected,,no,no,no,external,1600,900,1600,860,24,24,1600,775
+9f1a3221c19800c3eca540f007,31,Female,Right,United States,English,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1366,632
+6c0a5b71f0ee95571dbe0369d9,31,Female,Right,USA,English,Secondary,NormalCorrected,,no,no,no,laptop,1920,1080,1920,1030,24,24,1886,864
+8aa3a04dd768469451433f213e,39,Male,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1360,768,1360,728,24,24,1360,631
+35bce32d744f2b58a686550c98,26,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1366,768,1366,728,24,24,1333,495
+aab1b980e4f667d965a448ec21,32,Female,Right,United States,English,Undergraduate,NormalCorrected,,no,no,no,external,1920,1080,1920,1080,24,24,1920,983
+9849c03fd6476e4c708c3d22ce,40,Female,Right,United States of America,English,Secondary,NormalCorrected,,no,no,no,external,1152,864,1152,830,24,24,1152,717
+e4fa6fe4a3eb90cb2027dc5dec,42,Male,Right,USA,English,Undergraduate,NormalCorrected,,no,no,no,external,1024,768,1024,738,24,24,1024,653
+4da3a5c186d86d49eec598f529,39,Female,Right,usa,english,Undergraduate,NormalCorrected,,no,no,no,external,0,0,0,0,0,0,0,0
+ff2ba513f27f8ca5d05eee09cc,33,Female,Right,United States of America,English,Undergraduate,NormalCorrected,,no,no,no,laptop,1440,900,1440,900,24,24,1440,815
+9c074886a57bc1f2dc5a97c326,32,Female,Right,US,English,Secondary,NormalCorrected,,no,no,no,external,1920,1080,1920,1040,24,24,1920,955
+b17ef4eeb73fbcbf514a8b2dca,33,Female,Right,USA,English,Secondary,NormalCorrected,,no,no,no,external,1366,768,1366,728,24,24,888,391
+1b82cd62148d87717cae37d118,36,Male,Both,United States,English,Undergraduate,NormalCorrected,,no,no,no,external,1920,1080,1920,1040,24,24,1920,955
+1f5163e36d2597da6f5ede749c,35,Male,Left,united states,english,Undergraduate,NormalCorrected,,no,no,no,external,1920,1080,1920,1040,24,24,956,889
+8db37900f7d6c346b90319b616,44,Male,Right,United States,English,Secondary,NormalCorrected,,no,no,no,external,1680,1050,1680,1022,24,24,1637,861
+b947d05de4e6da7e00c2a5ae4f,55,Female,Right,Mexico,English,Secondary,NormalCorrected,,no,no,no,laptop,1366,768,1366,765,24,24,1366,677
+a4b01727380104027f6e91430e,55,Female,Right,USA,English,Secondary,NormalCorrected,,no,no,no,external,1440,900,1440,860,24,24,1440,775
+a0f4c91454dba0efa5173f271c,69,Female,Left,USA,English,Doctorate,NormalCorrected,,no,no,no,laptop,1280,1024,1280,896,24,24,1062,771

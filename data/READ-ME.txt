@@ -1,0 +1,3 @@
+Note that additional data is stored at the "ICB/hddm related code and data" dorectoy.
+
+Also note that files named BL corresponds to experimental data of the vertical Bisection Line task. 
