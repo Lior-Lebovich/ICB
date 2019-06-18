@@ -1,3 +1,8 @@
 Matlab files used for analyses.
 Analyses are saved by figure(s) name.
 Other files correspond either to functions used by the figName.m files or to analyses that were not illustrated graphically.
+
+Relevant data is available at the "data" and "hddm related code and data" directory.
+
+Note that you must unzip the ppc_data files in each "hddm related code and data/DATASET_NAME". 
+Also note that PPC_loop.m is required for multiple figures. It will only run once and then use the relevant data stored in "data/PPC_loop_data.mat".
